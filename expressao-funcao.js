@@ -120,8 +120,6 @@ const estudanteReprovouExpressao = function (notaFinal, faltas) {
 // CHAMANDO A FUNCTION EXPRESSION
 // ============================================================
 
-console.log(estudanteReprovouExpressao(6, 5));
-// true
+console.log(estudanteReprovouExpressao(6, 5));// true
 
-console.log(estudanteReprovouExpressao(8, 3));
-// false
+console.log(estudanteReprovouExpressao(8, 3));// false
